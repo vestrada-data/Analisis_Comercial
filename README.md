@@ -9,17 +9,17 @@ evaluar el rendimiento comercial global y los márgenes de ganancia de la operac
 Python (Pandas, NumPy), SQL, Power BI (DAX, Power Query), Modelado ETL, Data Storytelling.
 
 Preguntas del negocio:<br>
-¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?<br>
-¿Qué segmentos de clientes aportan mayor ingreso y rentabilidad?<br>
-¿Qué categorías de producto tienen mayor impacto en el negocio?<br>
-¿Existen diferencias relevantes entre países o regiones?<br>
-¿Qué patrones temporales se observan a lo largo del año?<br>
-¿Dónde podrían existir oportunidades de mejora comercial?<br>
+¿Los usuarios realmente compran más?
+¿El modelo está generando ganancias?
+¿Se están perdiendo oportunidades en el proceso de compra?
 
 ## KPIs monitoreados
-Ingresos Totales: porque me permite saber el tamaño del mercado capturado, es el indicador del volumen del negocio.<br>
-Ventas: Nos ayuda a entender si el crecimiento del ingreso se debe a que estamos vendiendo mas volumen de producto. .<br>
-Rentabilidad: Este KPI mide la eficiencia de la operación retail.
+Ingreso Total: $51.62 millones
+Ganancia Total: $5.63 millones
+Fuga de Margen Total: $5.38 millones
+Gasto de Marketing: $2.87 millones
+Ticket Promedio: $2.07 mil
+Productos Promedio por Orden: 7.13 unidades
 
 ## Proceso realizado
 - Conexión y Exploración de los Datos 
