@@ -48,10 +48,6 @@ Principales insights:
 <img width="839" height="510" alt="Captura300" src="https://github.com/user-attachments/assets/7f7695a0-00eb-45a8-bcc2-509a4ab28b8a" />
 
 
-## ▶ Cómo abrir el notebook en Google Colab
-
-Haz clic en el siguiente botón:
-[![Open In Colab](https://colab.research.google.com/drive/1cwOh1g4GZ6AqhEuYOlcNFYMHuUI4jKzU#scrollTo=8ee5db56-6dee-49e0-90d5-67a41c23552f)
 
 
 
