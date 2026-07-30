@@ -9,9 +9,9 @@ evaluar el rendimiento comercial global y los márgenes de ganancia de la operac
 Python (Pandas, NumPy), SQL, Power BI (DAX, Power Query), Modelado ETL, Data Storytelling.
 
 Preguntas del negocio:<br>
-¿Los usuarios realmente compran más?
-¿El modelo está generando ganancias?
-¿Se están perdiendo oportunidades en el proceso de compra?
+¿Los usuarios realmente compran más? <br>
+¿El modelo está generando ganancias? <br>
+¿Se están perdiendo oportunidades en el proceso de compra? <br>
 
 ## KPIs monitoreados
 Ingreso Total: $51.62 millones
