@@ -3,7 +3,7 @@
 
  ## 🎯 Objetivo 
 
-evaluar el rendimiento comercial global y los márgenes de ganancia de la operación, así como determinar la frecuencia de compra y el valor generado por usuario en los mercados de Argentina, México y Colombia. A través de este diagnóstico, se busca identificar ineficiencias operativas y formular recomendaciones estratégicas para proteger la rentabilidad del negocio.
+Evaluar el rendimiento comercial global y los márgenes de ganancia de la operación, así como determinar la frecuencia de compra y el valor generado por usuario en los mercados de Argentina, México y Colombia. A través de este diagnóstico, se busca identificar ineficiencias operativas y formular recomendaciones estratégicas para proteger la rentabilidad del negocio.
 
 ## 🛠️ Herramientas Utilizadas
 Python (Pandas, NumPy), SQL, Power BI (DAX, Power Query), Modelado ETL, Data Storytelling.
