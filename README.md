@@ -40,11 +40,11 @@ Principales insights:
 2. El éxito comercial del producto Laptop-Gaming-16GB está subsidiando una pérdida invisible; el sistema actual permite aplicar descuentos ciegos que destruyen el margen neto.
 3. La baja conversión de México no es un problema de demanda o de mercado (pues el volumen de ventas es casi idéntico al de Argentina), sino el síntoma directo de la distorsión de precios de la Laptop-Gaming-16GB. El mercado mexicano está absorbiendo el volumen de transacciones en pérdida, erosionando el margen del país.
 
-<img width="653" height="375" alt="Captura1" src="https://github.com/user-attachments/assets/60930cec-20d5-45f3-a795-ab9ba10feb07" />
+<img width="839" height="506" alt="Captura1" src="https://github.com/user-attachments/assets/60930cec-20d5-45f3-a795-ab9ba10feb07" />
 
-<img width="884" height="506" alt="Captura200" src="https://github.com/user-attachments/assets/fb226f9c-6425-49e3-bb40-343dd43f7309" />
+<img width="839" height="506" alt="Captura200" src="https://github.com/user-attachments/assets/fb226f9c-6425-49e3-bb40-343dd43f7309" />
 
-<img width="839" height="510" alt="Captura300" src="https://github.com/user-attachments/assets/7f7695a0-00eb-45a8-bcc2-509a4ab28b8a" />
+<img width="839" height="506" alt="Captura300" src="https://github.com/user-attachments/assets/7f7695a0-00eb-45a8-bcc2-509a4ab28b8a" />
 
 
 
