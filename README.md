@@ -14,12 +14,12 @@ Preguntas del negocio:<br>
 ¿Se están perdiendo oportunidades en el proceso de compra? <br>
 
 ## KPIs monitoreados
-Ingreso Total: $51.62 millones
-Ganancia Total: $5.63 millones
-Fuga de Margen Total: $5.38 millones
-Gasto de Marketing: $2.87 millones
-Ticket Promedio: $2.07 mil
-Productos Promedio por Orden: 7.13 unidades
+Ingreso Total: $51.62 millones <br>
+Ganancia Total: $5.63 millones  <br>
+Fuga de Margen Total: $5.38 millones  <br>
+Gasto de Marketing: $2.87 millones  <br>
+Ticket Promedio: $2.07 mil  <br>
+Productos Promedio por Orden: 7.13 unidades  <br>
 
 ## Proceso realizado
 - Conexión y Exploración de los Datos 
