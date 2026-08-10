@@ -1,4 +1,4 @@
-# Análisis de Rendimiento Comercial y Márgenes - Proyeco Final 
+# Análisis de Rendimiento Comercial y Márgenes 
 
 
  ## 🎯 Objetivo 
